@@ -1,1 +1,2 @@
-This is chapter 1. But inside the outliner branch
+This is chapter 1. But inside the outliner branch.
+Now changing it in branch 2
